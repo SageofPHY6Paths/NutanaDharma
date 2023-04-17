@@ -24,7 +24,7 @@ permalink: /ethics/ten-precepts/
 The first 7 precepts are moral precepts and they are the most important precepts. There are 3 more precepts which are not related to morality. You need to at least follow the first 7 precepts to be a Nūtana Dhārma follower. But following all 10 of them is strongly advised.
 
 1. I will consider that **all other human beings** that I do not already have close relationships with (irrespective of their race, religion, caste, region, creed, ethnicity, language, sex, and family status) as having **equal moral worth**.
-2. I will never harm or support the harm of another sentient being for the **mere sake of pleasure** and I understand that this implies that I need to be a **vegan** unless I am in rare and extreme situations.
+2. I will never harm or support the harm of another sentient being for the **mere sake of pleasure** and I understand that this implies that I need to be a **vegan**.
 3. I will **never own** another sentient being.
 4. I will never **brain wash** my children or my students by teaching uncertain things (like **religion**), that can neither be empirically verified nor can be deduced purely from logic and mathematics, as certainly true.
 5. I will try as much as I can to not unnecessarily waste important things like money, food etc by indulging in **luxurious activities** and instead once I have more than enough for my family I will give these things to the **poor and needy people**.
